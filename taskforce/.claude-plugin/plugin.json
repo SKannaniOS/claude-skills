@@ -1,7 +1,7 @@
 {
   "name": "taskforce",
   "displayName": "Taskforce",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0",
   "description": "Multi-agent orchestration that drives a task from vague request to verified result: scout (requirements interview) -> mastermind (plan + frozen interface) -> parallel hackers (build) -> adversarial lookouts (test) -> bounded fix-loop -> plain-language report. Uses promote-on-green so unverified code never touches your working tree. Bundles 5 role-agents.",
   "author": {
     "name": "Satheesh Kannan"

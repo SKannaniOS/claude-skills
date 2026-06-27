@@ -1,7 +1,7 @@
 {
   "name": "commit-splitter",
   "displayName": "Commit Splitter",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0",
   "description": "Split a messy working tree into clean, atomic commits with Conventional Commits messages. Groups related changes together even across files, and separates unrelated changes into different commits even within one file (hunk-level staging). Proposes a commit-by-commit plan and only commits after you approve. Optional flags for detailed messages, per-commit build verification, and folding in local un-pushed commits.",
   "author": {
     "name": "Satheesh Kannan"

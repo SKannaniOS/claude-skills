@@ -1,0 +1,21 @@
+{
+  "name": "pr-description",
+  "displayName": "PR Description",
+  "version": "1.0.0",
+  "description": "Generate a pull-request description from the current branch's diff and commit history. Auto-detects the base branch, fills the repo's own PR template (or a sensible default), writes a Conventional Commits title, and never drops or reorders template sections. Saves the result to a file.",
+  "author": {
+    "name": "Satheesh Kannan"
+  },
+  "homepage": "https://github.com/SKannaniOS/claude-skills",
+  "repository": "https://github.com/SKannaniOS/claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "pull-request",
+    "pr",
+    "git",
+    "github",
+    "conventional-commits",
+    "code-review",
+    "automation"
+  ]
+}

@@ -14,6 +14,11 @@
       "name": "how-to-test",
       "source": "./how-to-test",
       "description": "Analyze a repo and generate a step-by-step guide for manually testing it by hand — fresh clone to actually using the SDK/app and confirming it works. Covers prerequisites, dependencies, local setup, a hands-on walkthrough, and teardown. Not the automated test suite."
+    },
+    {
+      "name": "pr-description",
+      "source": "./pr-description",
+      "description": "Generate a pull-request description from the current branch's diff and commits: auto-detects the base branch, fills the repo's own PR template (or a sensible default), writes a Conventional Commits title, and never drops or reorders template sections."
     }
   ]
 }

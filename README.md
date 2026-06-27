@@ -14,6 +14,7 @@ skills and agents for AI-assisted software engineering. Add it once, install onl
 | **taskforce** | Multi-agent orchestration that drives a task from a vague request to a verified result. | [details →](./taskforce) |
 | **how-to-test** | Generates a hands-on, manual-testing guide for any repo — fresh clone to "I saw it work." | [details →](./how-to-test) |
 | **pr-description** | Writes a PR description from your branch diff, filling the repo's own PR template. | [details →](./pr-description) |
+| **commit-splitter** | Splits a messy working tree into clean, atomic commits — grouped by concern, not by file. | [details →](./commit-splitter) |
 
 ## Installing a plugin
 

@@ -19,6 +19,11 @@
       "name": "pr-description",
       "source": "./pr-description",
       "description": "Generate a pull-request description from the current branch's diff and commits: auto-detects the base branch, fills the repo's own PR template (or a sensible default), writes a Conventional Commits title, and never drops or reorders template sections."
+    },
+    {
+      "name": "commit-splitter",
+      "source": "./commit-splitter",
+      "description": "Split a messy working tree into clean, atomic commits with Conventional Commits messages: groups related changes together even across files, and separates unrelated changes into different commits even within one file (hunk-level staging). Proposes a commit-by-commit plan and only commits after you approve; never pushes."
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "name": "taskforce",
+  "displayName": "Taskforce",
+  "version": "1.0.0-alpha",
+  "description": "Multi-agent orchestration that drives a task from vague request to verified result: scout (requirements interview) -> mastermind (plan + frozen interface) -> parallel hackers (build) -> adversarial lookouts (test) -> bounded fix-loop -> plain-language report. Uses promote-on-green so unverified code never touches your working tree. Bundles 5 role-agents.",
+  "author": {
+    "name": "Satheesh Kannan"
+  },
+  "homepage": "https://github.com/SKannaniOS/claude-skills",
+  "repository": "https://github.com/SKannaniOS/claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "multi-agent",
+    "orchestration",
+    "subagents",
+    "agents",
+    "automation",
+    "tdd",
+    "code-review"
+  ]
+}

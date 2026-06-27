@@ -1,0 +1,14 @@
+{
+  "name": "skannanios",
+  "owner": {
+    "name": "Satheesh Kannan"
+  },
+  "description": "Curated Claude Code skills & agents for AI-assisted software engineering.",
+  "plugins": [
+    {
+      "name": "taskforce",
+      "source": "./taskforce",
+      "description": "Multi-agent orchestration that drives a task from vague request to verified result: scout -> mastermind -> parallel hackers -> adversarial lookouts -> bounded fix-loop -> plain-language report, with promote-on-green so unverified code never touches your tree."
+    }
+  ]
+}

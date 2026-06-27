@@ -9,6 +9,11 @@
       "name": "taskforce",
       "source": "./taskforce",
       "description": "Multi-agent orchestration that drives a task from vague request to verified result: scout -> mastermind -> parallel hackers -> adversarial lookouts -> bounded fix-loop -> plain-language report, with promote-on-green so unverified code never touches your tree."
+    },
+    {
+      "name": "how-to-test",
+      "source": "./how-to-test",
+      "description": "Analyze a repo and generate a step-by-step guide for manually testing it by hand — fresh clone to actually using the SDK/app and confirming it works. Covers prerequisites, dependencies, local setup, a hands-on walkthrough, and teardown. Not the automated test suite."
     }
   ]
 }

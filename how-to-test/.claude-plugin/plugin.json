@@ -1,0 +1,21 @@
+{
+  "name": "how-to-test",
+  "displayName": "How to Test",
+  "version": "1.0.0-alpha",
+  "description": "Analyze a repo and generate a developer-friendly, step-by-step guide for MANUALLY testing it by hand — going from a fresh clone to actually using the SDK/app and confirming it works. Covers prerequisites, external dependencies, local setup, a hands-on walkthrough, and teardown. Not about running the automated test suite.",
+  "author": {
+    "name": "Satheesh Kannan"
+  },
+  "homepage": "https://github.com/SKannaniOS/claude-skills",
+  "repository": "https://github.com/SKannaniOS/claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "manual-testing",
+    "onboarding",
+    "developer-experience",
+    "documentation",
+    "sdk",
+    "qa"
+  ]
+}

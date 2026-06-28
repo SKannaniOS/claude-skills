@@ -24,6 +24,11 @@
       "name": "commit-splitter",
       "source": "./commit-splitter",
       "description": "Split a messy working tree into clean, atomic commits with Conventional Commits messages: groups related changes together even across files, and separates unrelated changes into different commits even within one file (hunk-level staging). Proposes a commit-by-commit plan and only commits after you approve; never pushes."
+    },
+    {
+      "name": "teach-me",
+      "source": "./teach-me",
+      "description": "Learn any concept from a patient expert tutor: pick your level (noob/junior/senior/professional), get a plain-English step-by-step explanation that pauses for your questions, optionally learn by building a small runnable project, then multiple-choice understanding checks and a recap cheat-sheet to keep."
     }
   ]
 }

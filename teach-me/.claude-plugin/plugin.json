@@ -1,0 +1,21 @@
+{
+  "name": "teach-me",
+  "displayName": "Teach Me",
+  "version": "1.0.0",
+  "description": "Turn Claude into a patient expert tutor for any concept or question. Adapts to your level (noob/junior/senior/professional), explains in plain English step by step, and pauses between steps to wait for your questions — never dumping the whole lesson at once. Optionally teaches by building a small runnable sample project grown one step at a time, runs multiple-choice understanding checks between steps and at the end (with explanations of why each answer is right or wrong), and offers a recap cheat-sheet to keep. The goal: understand it deeply enough to use it and explain it to others.",
+  "author": {
+    "name": "Satheesh Kannan"
+  },
+  "homepage": "https://github.com/SKannaniOS/claude-skills",
+  "repository": "https://github.com/SKannaniOS/claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "teaching",
+    "learning",
+    "tutor",
+    "education",
+    "explainer",
+    "mentoring",
+    "onboarding"
+  ]
+}

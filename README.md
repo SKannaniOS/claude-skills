@@ -15,6 +15,7 @@ skills and agents for AI-assisted software engineering. Add it once, install onl
 | **how-to-test** | Generates a hands-on, manual-testing guide for any repo — fresh clone to "I saw it work." | [details →](./how-to-test) |
 | **pr-description** | Writes a PR description from your branch diff, filling the repo's own PR template. | [details →](./pr-description) |
 | **commit-splitter** | Splits a messy working tree into clean, atomic commits — grouped by concern, not by file. | [details →](./commit-splitter) |
+| **teach-me** | Patient tutor for any concept — adapts to your level, explains step by step, quizzes you, and leaves a recap. | [details →](./teach-me) |
 
 ## Installing a plugin
 

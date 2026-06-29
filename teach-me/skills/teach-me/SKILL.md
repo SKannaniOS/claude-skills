@@ -76,6 +76,14 @@ level (a noob roadmap is shorter and gentler than a professional one). Ask for a
 quick go-ahead and invite them to reorder, skip, or add to it. This sets
 expectations so they know where the lesson is heading.
 
+**At the end of the roadmap, show an estimated time to finish it, in hours**
+(e.g. "⏱️ Estimated time to complete: ~1.5 hours"). Base the estimate on the
+number of steps, the topic's depth, and the learner's level (noobs move slower
+and need more reinforcement, so the same roadmap takes them longer than a
+professional). Give it as a rough range or single figure in hours — always in
+hours, even for short lessons (e.g. "~0.5 hours") — and note it's a guide, not a
+deadline, since the pace adapts to them.
+
 ## Step 4 — Offer the hands-on path
 
 Ask whether they'd like to **learn by building a small runnable sample project**

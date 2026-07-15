@@ -13,7 +13,7 @@ description: >-
   asks to be taught/explained a topic so they understand it deeply enough to
   use it and explain it to others.
 argument-hint: "<concept or question>"
-allowed-tools: AskUserQuestion, Read, Write, Edit, Bash
+allowed-tools: AskUserQuestion, Read, Write, Edit, Bash, WebSearch, WebFetch
 ---
 
 # teach-me
@@ -45,6 +45,16 @@ same method works for any concept.
 - **Gate writes on consent.** You may build a sample project or save a recap
   file, but only after the learner explicitly says yes. Default to talking and
   inline code.
+- **Teach today's reality, not your training data's.** Your knowledge has a
+  cutoff, and developer topics move fast (APIs get deprecated, platform rules
+  change, tools get renamed). For any topic that plausibly changed since your
+  cutoff — platform SDKs, frameworks, vendor policies, tooling, pricing — run a
+  quick `WebSearch` *before* presenting the roadmap to catch deprecations, new
+  requirements, or announcements, and fold what you find into the lesson with
+  source links. Do the same immediately whenever the learner asks "is this
+  still current?". If you cannot verify, say so explicitly and label the
+  information with the date it was known to be true — never present
+  possibly-stale facts as current.
 
 ## Step 1 — Capture the topic
 
@@ -70,6 +80,13 @@ and their preferred language/stack, so every example lands in their world rather
 than a generic one. Don't over-interrogate — one combined question is enough.
 
 ## Step 3 — Present the roadmap
+
+**Freshness check first:** if the topic is one that changes over time (a
+platform API, framework, tool, or policy), verify it against current sources
+with `WebSearch` before outlining the lesson — see *Teach today's reality* in
+the core rules. Build anything material you find (deprecations, new mandates,
+renames) into the roadmap itself so the lesson reflects the current state of
+the topic, and cite the sources when you teach that step.
 
 Show a short, numbered outline of the steps/modules you'll cover, sized to the
 level (a noob roadmap is shorter and gentler than a professional one). Ask for a
